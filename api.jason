@@ -1,0 +1,48 @@
+{
+  "company": "Tours by Tomasi",
+  "tagline": "Real Kenya, Real Guides",
+  "owner": "Thomas Ochieng - GreatT16",
+  "contact": {
+    "whatsapp": "+254706824462",
+    "email": "Menyathomas00@gmail.com",
+    "instagram": "Great_tomasi",
+    "tiktok": "Great Tomasi",
+    "facebook": "Thomas MENYA",
+    "location": "Thika, Kenya"
+  },
+  "website": "https://greatt16.github.io/Tours-by-Tomasi/",
+  "tours": [
+    {
+      "id": 1,
+      "name": "Nairobi National Park",
+      "price": "$80",
+      "duration": "1 Day",
+      "includes": "Lions, rhinos, giraffes, skyline view"
+    },
+    {
+      "id": 2,
+      "name": "14 Falls + Ol Donyo Sabuk",
+      "price": "$55",
+      "duration": "1 Day",
+      "includes": "Waterfalls, hike, monkey bridge"
+    },
+    {
+      "id": 3,
+      "name": "Amboseli - Kilimanjaro View",
+      "price": "$250",
+      "duration": "2 Days",
+      "includes": "Elephants, Kili view"
+    },
+    {
+      "id": 4,
+      "name": "Maasai Mara Big 5",
+      "price": "From $350",
+      "duration": "3 Days",
+      "includes": "Big 5, Community Hub"
+    }
+  ],
+  "payment": {
+    "mpesa": "0706824462",
+    "name": "TOMASI"
+  }
+}
